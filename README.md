@@ -1,16 +1,10 @@
-# WEBSERVICES PARA O CASE CYRELA
+# WEB SERVICES FOR CYRELA CASE STUDY
 
+In our application, we focused on providing a standardized documentation using "Swagger" (Open API 3.0) for the Cyrela company.
 
-Em nossa aplicação, focamos em fornecer um padrão de documentação,
-utilizando o “Swagger” (Open API 3.0), para a empresa Cyrela.
+In this implementation, we provided methods such as "GET" (for pagination), "PUT", "POST", "DELETE" and "GET" (by ID), according to the tables provided by the client, Occurrences and Assistance.
 
-Nesta implementação estamos fornecendo métodos como: “GET” (por
-paginação), “PUT”, “POST”, “DELETE” e “GET” (por Id), conforme as tabelas
-fornecidas pelo cliente. Ocorrências e Assistências.
+We created a RESTful API in ASP.NET Core 3.1 and implemented automated deployment with Git Actions to Azure services (Microsoft Cloud).
 
-Criamos uma API RESTfull em ASP.NET Core 3.1 e implementamos o deploy
-automatizado com Git Actions para dentro dos serviços Azure (Núvem
-Microsoft).
-
-## Notas
-O trabalho foi feito em um time, todos os participantes podem ser encontrados no [Repositório oficial](https://github.com/joseBarreto/fiap_cyrela.git)
+## Notes
+The work was done in a team, and all participants can be found in the [official repository](https://github.com/joseBarreto/fiap_cyrela.git).
