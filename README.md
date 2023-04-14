@@ -12,8 +12,5 @@ Criamos uma API RESTfull em ASP.NET Core 3.1 e implementamos o deploy
 automatizado com Git Actions para dentro dos serviços Azure (Núvem
 Microsoft).
 
-
-Implementação: https://fiap-cyrela-br.azurewebsites.net/swagger/index.html
-
-GitHub: https://github.com/joseBarreto/fiap_cyrela.git
-
+## Notas
+O trabalho foi feito em um time, todos os participantes podem ser encontrados no [Repositório oficial](https://github.com/joseBarreto/fiap_cyrela.git)
